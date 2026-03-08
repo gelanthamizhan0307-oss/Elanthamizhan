@@ -1,2 +1,2 @@
-# Lipspace
-LipSpace
+# Libspace
+Libspace
